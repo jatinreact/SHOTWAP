@@ -1,0 +1,26 @@
+.ourstory_paragr {
+  padding-left: 15%;
+  padding-right: 15%;
+  margin-top: 7px;
+  padding-bottom: 7px;
+}
+.ventured_img img {
+  width: 80px;
+  height: 80px;
+  margin: auto;
+}
+.ventured_img {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+  padding-bottom: 5%;
+}
+.trophy_img {
+  display: flex !important;
+  justify-content: center !important;
+}
+.achivements {
+  background-color: #e2e2e2 !important;
+  padding-top: 7%;
+  padding-bottom: 7%;
+}

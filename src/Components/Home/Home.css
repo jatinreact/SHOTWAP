@@ -1,0 +1,167 @@
+.brandImages {
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 61px;
+}
+
+.brandImages img {
+  height: 86px;
+}
+.start_btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+button.GET_BTN {
+  background-color: #03041c;
+  color: #fff;
+  padding: 9px 28px;
+  border-radius: 19px;
+}
+.Img_frame_truck img {
+  height: 300px;
+  width: 300px;
+  border: 20px solid;
+  border-radius: 31px;
+  margin-bottom: 27px;
+}
+.img_para p {
+  margin-top: 40px;
+  font-size: 15px;
+}
+.Fram_class_main {
+  justify-content: center;
+}
+.category_section {
+  background-color: #e2e2e2 !important;
+  position: relative !important;
+}
+.img_youtube {
+  position: absolute !important;
+  left: 13% !important;
+  top: 28% !important;
+}
+.img_youtube img {
+  height: 130px !important;
+  width: 189px !important;
+  padding: 10px !important;
+  /* justify-content: center; */
+}
+.category_section img {
+  margin-bottom: 27px;
+  height: 300px;
+}
+.category_heding {
+  margin-top: 25%;
+}
+.Book_img_book img {
+  height: 83px;
+  color: #000;
+}
+.Book_img_book {
+  display: flex;
+  justify-content: center;
+}
+.rect_img {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.affortable img {
+  height: 80px;
+}
+
+.pricing_button {
+  background-color: #001230 !important;
+  color: #fff !important;
+  padding: 10px 38px !important;
+  border-radius: 11px !important;
+}
+.awesomefeature img {
+  height: 300px;
+  object-fit: cover;
+  object-fit: contain;
+}
+.spreadProducts {
+  margin-top: 18% !important;
+  text-align: center;
+}
+.number.text-center {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  color: #fff;
+  border-radius: 50%;
+  margin: auto;
+  margin-bottom: 20px;
+  border: 2px solid;
+}
+span.one_class {
+  margin-top: 15px;
+  text-align: center;
+  padding-left: 24px;
+}
+.work_section_our {
+  background-image: linear-gradient(to right, #00716e, #00aea9);
+  padding-bottom: 38px;
+}
+.setting_img img {
+  height: 42px;
+  margin: auto;
+  display: flex;
+}
+.warehouse_img img {
+  height: 114px;
+  margin: auto;
+  display: flex;
+}
+.delevrytruck img {
+  height: 137px;
+  margin: auto;
+  display: flex;
+}
+.aboutcompany {
+  background: url("../images/nightport.png");
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-repeat: no-repeat;
+  object-fit: contain;
+  object-fit: cover;
+}
+.para_color_common {
+  color: white;
+}
+.img_set {
+  justify-content: center !important;
+  display: flex !important;
+}
+.forgot_password {
+  /* display: flex; */
+  display: flex;
+  justify-content: space-between;
+  padding: 6px;
+  color: #183c78;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 780px) {
+  .brandImages img {
+    height: 44px !important;
+  }
+  .awesomefeature img {
+    width: auto;
+    height: 300px;
+    object-fit: cover;
+    object-fit: contain;
+  }
+  .spreadProducts {
+    margin-top: 18% !important;
+    text-align: center;
+    font-size: 24px;
+  }
+  .img_youtube {
+    position: absolute !important;
+    left: 26% !important;
+    top: 12% !important;
+  }
+}

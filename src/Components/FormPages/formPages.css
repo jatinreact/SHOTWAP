@@ -1,0 +1,10 @@
+.recon_heading {
+  justify-content: space-between;
+}
+
+.input_color input[type="search"] {
+  background-color: rgb(214, 207, 207);
+}
+.shipment_nav {
+  border-radius: 10px;
+}
